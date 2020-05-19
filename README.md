@@ -1,5 +1,9 @@
 # StableA7Linux for iOS10.3.3
 
+For use in Sliver (Ubuntu) or Neppass.
+
+Original:
+
 I come here to release you my beta of the StableA7 port for Linux
 
 Is downgrade for iOS10.3.3 in A7 idevices
