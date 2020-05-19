@@ -2,6 +2,10 @@
 
 beta=true
 
+echo "Open Software & Updates (or Software Sources depending on your Linux distro or even Additional Drivers) and enable all sources on the Other Software tab"
+echo "Once you have done that, press enter to continue installing the dependencies."
+read ooga
+
 if [ -e "build" ]; then
 echo "[+] Build folder exists! If the script doesn't work please delete the 'Build' folder and run it again"
           
